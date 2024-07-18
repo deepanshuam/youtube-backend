@@ -11,7 +11,7 @@
     "js",
     "backened"
   ],
-  "author": "Pawan Chaukiyal",
+  "author": "Deepanshu sharma",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.0",
